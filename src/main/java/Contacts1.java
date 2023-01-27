@@ -410,7 +410,7 @@ public class Contacts1 {
         return allPersons;
     }
 
-    /**
+    /** Javadoc
      * Clears all persons in the address book and saves changes to file.
      */
     private static void initAddressBook() {
