@@ -23,6 +23,7 @@ public class Contacts1 {
      */
     private static final String LS = System.lineSeparator() + LINE_PREFIX;
 
+
     /*
      * NOTE : ==================================================================
      * These messages shown to the user are defined in one place for convenient
