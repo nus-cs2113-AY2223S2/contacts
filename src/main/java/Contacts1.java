@@ -256,7 +256,6 @@ public class Contacts1 {
         addPersonToAddressBook(decodeResult);
         return getMessageForSuccessfulAddPerson(decodeResult);
     }
-
     /**
      * Constructs a feedback message for a successful add person command execution.
      *
