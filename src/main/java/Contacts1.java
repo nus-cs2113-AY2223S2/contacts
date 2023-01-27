@@ -103,6 +103,7 @@ public class Contacts1 {
      * inside the readUserCommand() method to facilitate automated testing using
      * the I/O redirection technique. If not, only the first line of the input
      * text file will be processed.
+     * KUKU BIRD
      */
     private static final Scanner SCANNER = new Scanner(System.in);
 
