@@ -132,7 +132,7 @@ public class Contacts1 {
      * Main entry point of the application.
      * Initializes the application and starts the interaction with the user.
      */
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         initAddressBook();
         showWelcomeMessage();
         while (true) {
