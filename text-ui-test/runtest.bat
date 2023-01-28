@@ -17,5 +17,9 @@ REM no error here, errorlevel == 0
 REM run the program, feed commands from input.txt file and redirect the output to the ACTUAL.TXT
 java -classpath ..\bin Contacts0 < input.txt > ACTUAL.TXT
 
+REM < and > signify redirecting output into the given files
+REM inputs.txt inputs in Contacts0 and its output into ACTUAL.TXT
+
+
 REM compare the output to the expected output
 FC ACTUAL.TXT EXPECTED.TXT

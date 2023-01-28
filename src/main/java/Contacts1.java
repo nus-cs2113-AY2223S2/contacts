@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 
 /**
+ * Contacts1 is MODULAR. It is not OOP
+ *
  * This class is used to maintain a list of person data which are saved
  * in a text file.
  **/
